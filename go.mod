@@ -1,4 +1,4 @@
-module github.com/sagernet/smux
+module github.com/wwbfred/smux
 
 go 1.13
 
